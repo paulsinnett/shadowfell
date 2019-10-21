@@ -12392,9 +12392,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0377072"
-     inkscape:cx="98.189744"
-     inkscape:cy="675.5382"
+     inkscape:zoom="2.8817532"
+     inkscape:cx="256.29487"
+     inkscape:cy="616.03475"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -12473,6 +12473,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
+    <path
+       style="display:inline;fill:#ffaf00;fill-opacity:0.4946237;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 216.08462,351.4621 -56.73173,-0.0842 0.0595,-77.47461 93.31162,-0.40656 0.83403,38.76666 -38.18981,1.6575 z"
+       id="path3374-7-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
     <g
        id="g3325"
        transform="translate(61.240579,113.33382)">
@@ -12522,7 +12528,7 @@
     </g>
     <g
        id="g3374"
-       transform="matrix(0.4073481,0,0,0.4073481,-26.877105,82.798876)"
+       transform="matrix(0.4073481,0,0,0.4073481,-44.053272,180.9484)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12606,7 +12612,7 @@
     <g
        id="g7434-2"
        style="display:inline"
-       transform="matrix(0.4073481,0,0,0.4073481,-269.13517,221.48215)">
+       transform="matrix(0.4073481,0,0,0.4073481,256.40653,421.56345)">
       <g
          id="g7477">
         <g
@@ -12636,7 +12642,7 @@
              sodipodi:role="line"
              id="tspan6580-8"
              x="276.7818"
-             y="94.232498">Bl</tspan></text>
+             y="94.232498">E</tspan></text>
       </g>
     </g>
     <g
@@ -13172,7 +13178,7 @@
     <g
        style="display:inline"
        id="g3395-4-6-4-7-09"
-       transform="matrix(0.4073481,0,0,0.4073481,131.97413,344.0186)"
+       transform="matrix(0.4073481,0,0,0.4073481,92.761889,362.75719)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13605,7 +13611,7 @@
     </g>
     <path
        style="display:inline;fill:#ffaf00;fill-opacity:0.4946237;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 328.64146,654.1931 -57.42575,-1.47225 -0.9815,-56.30694 57.9165,0.98149 z"
+       d="m 276.2428,654.1931 -57.42575,-1.47225 -0.9815,-56.30694 57.9165,0.98149 z"
        id="path3374-7-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
