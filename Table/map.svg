@@ -12393,15 +12393,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8817532"
-     inkscape:cx="256.29487"
-     inkscape:cy="616.03475"
+     inkscape:cx="114.02037"
+     inkscape:cy="645.53068"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2133"
-     inkscape:window-height="1586"
-     inkscape:window-x="131"
-     inkscape:window-y="121"
+     inkscape:window-width="2134"
+     inkscape:window-height="1587"
+     inkscape:window-x="173"
+     inkscape:window-y="123"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -13025,7 +13025,7 @@
     <g
        style="display:inline"
        id="g3388-3"
-       transform="matrix(0.4073481,0,0,0.4073481,130.54571,267.52279)"
+       transform="matrix(0.4073481,0,0,0.4073481,265.53298,248.7842)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13193,7 +13193,7 @@
            rx="25.714285"
            ry="27.142857" />
         <ellipse
-           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path3292-3-2-1-6-81"
            transform="matrix(0.822561,0,0,0.822561,103.732,-241.08596)"
            cx="211.42857"
@@ -13231,7 +13231,7 @@
            rx="25.714285"
            ry="27.142857" />
         <ellipse
-           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path3292-3-2-1-6-1"
            transform="matrix(0.822561,0,0,0.822561,103.732,-241.08596)"
            cx="211.42857"
@@ -13530,7 +13530,7 @@
     <g
        style="display:inline"
        id="g3395-4"
-       transform="matrix(0.4073481,0,0,0.4073481,92.676735,303.91315)"
+       transform="matrix(0.4073481,0,0,0.4073481,111.41533,363.59904)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
