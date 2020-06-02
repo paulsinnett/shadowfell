@@ -11320,12 +11320,12 @@
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         y="0"
-         x="0"
-         id="parchment"
-         height="256"
+         inkscape:label="#image18410"
          width="256"
-         inkscape:label="#image18410" />
+         height="256"
+         id="parchment"
+         x="0"
+         y="0" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -11336,73 +11336,73 @@
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         y="0"
-         x="0"
+         inkscape:tile-y0="85.74762"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-h="256"
+         inkscape:tile-w="256"
+         inkscape:tile-cy="213.74762"
+         inkscape:tile-cx="197.00342"
+         inkscape:label="#image18410"
+         width="256"
+         height="256"
          id="image18421"
+         x="0"
+         y="0" />
+      <image
+         sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
+         xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
+         y="256"
+         x="0"
+         id="use18454"
          height="256"
          width="256"
          inkscape:label="#image18410"
-         inkscape:tile-cx="197.00342"
-         inkscape:tile-cy="213.74762"
-         inkscape:tile-w="256"
-         inkscape:tile-h="256"
          inkscape:tile-x0="69.003418"
          inkscape:tile-y0="85.74762" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
-         id="use18454"
-         x="0"
-         y="256" />
-      <image
-         sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
+         y="0"
+         x="256"
          id="use18456"
-         x="256"
-         y="0" />
+         height="256"
+         width="256"
+         inkscape:label="#image18410"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-y0="85.74762" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
+         y="256"
+         x="256"
          id="use18458"
-         x="256"
-         y="256" />
+         height="256"
+         width="256"
+         inkscape:label="#image18410"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-y0="85.74762" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
+         y="0"
+         x="512"
          id="use18460"
-         x="512"
-         y="0" />
+         height="256"
+         width="256"
+         inkscape:label="#image18410"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-y0="85.74762" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
-         id="use18462"
+         y="256"
          x="512"
-         y="256" />
+         id="use18462"
+         height="256"
+         width="256"
+         inkscape:label="#image18410"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-y0="85.74762" />
     </pattern>
     <inkscape:perspective
        id="perspective18564"
@@ -12393,8 +12393,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="217.56094"
-     inkscape:cy="779.01183"
+     inkscape:cx="126.69772"
+     inkscape:cy="692.4612"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -12446,14 +12446,14 @@
     <image
        sodipodi:absref="D:\GitHub\shadowfell\Table\background.png"
        xlink:href="background.png"
-       style="display:inline"
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       height="327.168"
+       id="image5843"
+       x="67.107826"
+       y="30.207476"
        width="317.97559"
-       y="74.755203"
-       x="66.047165"
-       id="image5843" />
+       height="499"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="display:inline" />
     <rect
        style="display:inline;fill:#9afbed;fill-opacity:0.24705882;stroke:#0f9fde;stroke-width:1.73946929;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2572-8-1"
@@ -12476,7 +12476,7 @@
     <g
        id="g7434-2-53"
        style="display:inline"
-       transform="matrix(0.4073481,0,0,0.4073481,112.09302,391.08854)">
+       transform="matrix(0.4073481,0,0,0.4073481,236.19026,482.30532)">
       <g
          id="g7477-1">
         <g
@@ -12517,7 +12517,7 @@
        r="55.454483" />
     <g
        id="g3395"
-       transform="matrix(0.4073481,0,0,0.4073481,-228.14314,413.04368)"
+       transform="matrix(0.4073481,0,0,0.4073481,111.62167,384.40586)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12638,7 +12638,7 @@
     <g
        id="g7434-2"
        style="display:inline"
-       transform="matrix(0.4073481,0,0,0.4073481,187.11006,431.10939)">
+       transform="matrix(0.4073481,0,0,0.4073481,187.11006,491.92057)">
       <g
          id="g7477">
         <g
@@ -12711,7 +12711,7 @@
     <g
        id="g7434-2-81"
        style="display:inline"
-       transform="matrix(0.4073481,0,0,0.4073481,-237.10675,294.94326)">
+       transform="matrix(0.4073481,0,0,0.4073481,13.209055,86.700308)">
       <g
          id="g7477-0">
         <g
@@ -12741,7 +12741,7 @@
              sodipodi:role="line"
              id="tspan6580-8-4"
              x="276.7818"
-             y="94.232498">Bl</tspan></text>
+             y="94.232498">S1</tspan></text>
       </g>
     </g>
     <rect
@@ -12798,7 +12798,7 @@
        inkscape:transform-center-y="-0.14730719" />
     <g
        id="g3381"
-       transform="matrix(0.4073481,0,0,0.4073481,158.97569,471.27671)"
+       transform="matrix(0.4073481,0,0,0.4073481,424.49429,445.46731)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -12840,18 +12840,18 @@
       </g>
     </g>
     <rect
-       style="display:inline;fill:none;fill-opacity:0.24705882;stroke:#060000;stroke-width:0.68849242;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:0.24705882;stroke:#060000;stroke-width:0.77572572;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2572-8-1-7-4"
-       width="315.01355"
-       height="317.27164"
-       x="-395.44336"
-       y="67.143333"
-       transform="matrix(0.00431267,-0.9999907,0.99999928,0.00119997,0,0)"
+       width="399.01169"
+       height="317.97501"
+       x="-479.41895"
+       y="67.780128"
+       transform="matrix(0.00341233,-0.99999418,0.99999885,0.00151659,0,0)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
        inkscape:export-xdpi="96.199997"
        inkscape:export-ydpi="96.199997"
-       inkscape:transform-center-x="10.408704"
-       inkscape:transform-center-y="-3.4092505" />
+       inkscape:transform-center-x="10.431776"
+       inkscape:transform-center-y="-4.3183745" />
     <g
        style="display:inline"
        id="g3395-4-6"
@@ -12931,7 +12931,7 @@
     <g
        style="display:inline"
        id="g3395-4-6-4-7"
-       transform="matrix(0.4073481,0,0,0.4073481,138.42814,439.01311)"
+       transform="matrix(0.4073481,0,0,0.4073481,159.28779,498.76363)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13014,7 +13014,7 @@
     <g
        style="display:inline"
        id="g3388-3"
-       transform="matrix(0.4073481,0,0,0.4073481,-196.20775,439.68295)"
+       transform="matrix(0.4073481,0,0,0.4073481,93.352479,385.23573)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13053,7 +13053,7 @@
     <g
        style="display:inline"
        id="g3395-4-6-4-7-6"
-       transform="matrix(0.4073481,0,0,0.4073481,47.823195,484.55658)"
+       transform="matrix(0.4073481,0,0,0.4073481,33.327506,185.45041)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13086,12 +13086,12 @@
            x="276.7818"
            sodipodi:role="line"
            style="font-size:24px;line-height:1"
-           id="tspan6933-1">F1</tspan></text>
+           id="tspan6933-1">Fl</tspan></text>
     </g>
     <g
        style="display:inline"
        id="g3395-4-6-4-7-0"
-       transform="matrix(0.4073481,0,0,0.4073481,78.033568,389.73622)"
+       transform="matrix(0.4073481,0,0,0.4073481,127.17749,508.17661)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13519,7 +13519,7 @@
     <g
        style="display:inline"
        id="g3395-4"
-       transform="matrix(0.4073481,0,0,0.4073481,-227.99592,372.79142)"
+       transform="matrix(0.4073481,0,0,0.4073481,112.476,346.27492)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13557,7 +13557,7 @@
     <g
        style="display:inline"
        id="g3381-5"
-       transform="matrix(0.4073481,0,0,0.4073481,63.877045,452.70438)"
+       transform="matrix(0.4073481,0,0,0.4073481,422.73374,485.58485)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -13651,7 +13651,7 @@
     <g
        style="display:inline"
        id="g3381-5-9"
-       transform="matrix(0.4073481,0,0,0.4073481,83.524915,474.34694)"
+       transform="matrix(0.4073481,0,0,0.4073481,442.02806,445.70912)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -13695,7 +13695,7 @@
     <g
        style="display:inline"
        id="g3381-5-7"
-       transform="matrix(0.27579127,0,0,0.27579127,-18.162955,439.64484)"
+       transform="matrix(0.27579127,0,0,0.27579127,354.12877,486.31389)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -13777,7 +13777,7 @@
     <g
        id="g7434-2-81-0"
        style="display:inline"
-       transform="matrix(0.4073481,0,0,0.4073481,-203.95723,294.37388)">
+       transform="matrix(0.4073481,0,0,0.4073481,32.923544,166.034)">
       <g
          id="g7477-0-1">
         <g
@@ -13807,13 +13807,13 @@
              sodipodi:role="line"
              id="tspan6580-8-4-2"
              x="276.7818"
-             y="94.232498">Bl</tspan></text>
+             y="94.232498">W</tspan></text>
       </g>
     </g>
     <g
        id="g7434-2-81-05"
        style="display:inline"
-       transform="matrix(0.71696978,0,0,0.71696978,-216.77775,458.88789)">
+       transform="matrix(0.71696978,0,0,0.71696978,116.26955,187.00533)">
       <g
          id="g7477-0-8">
         <g
@@ -13831,7 +13831,7 @@
              cy="85.181122"
              cx="277.6449"
              id="ellipse6576-9-4-7"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <text
            xml:space="preserve"
@@ -13844,6 +13844,114 @@
              id="tspan6580-8-4-4"
              x="276.7818"
              y="94.232498">M</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g7434-2-81-050"
+       style="display:inline"
+       transform="matrix(0.4073481,0,0,0.4073481,212.88222,85.423824)">
+      <g
+         id="g7477-0-3">
+        <g
+           id="g7470-3-7">
+          <ellipse
+             ry="22.326654"
+             rx="21.151567"
+             cy="86.522575"
+             cx="279.36047"
+             id="ellipse6574-3-0-0"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82276052;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <ellipse
+             ry="22.326654"
+             rx="21.151567"
+             cy="85.181122"
+             cx="277.6449"
+             id="ellipse6576-9-4-6"
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="276.7818"
+           y="94.232498"
+           id="text6578-0-4-58"><tspan
+             style="font-size:24px;line-height:1"
+             sodipodi:role="line"
+             id="tspan6580-8-4-0"
+             x="276.7818"
+             y="94.232498">S2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g7434-2-81-0-7"
+       style="display:inline"
+       transform="matrix(0.4073481,0,0,0.4073481,191.66902,126.08247)">
+      <g
+         id="g7477-0-1-1">
+        <g
+           id="g7470-3-4-0">
+          <ellipse
+             ry="22.326654"
+             rx="21.151567"
+             cy="86.522575"
+             cx="279.36047"
+             id="ellipse6574-3-0-1-3"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82276052;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <ellipse
+             ry="22.326654"
+             rx="21.151567"
+             cy="85.181122"
+             cx="277.6449"
+             id="ellipse6576-9-4-1-7"
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="276.7818"
+           y="94.232498"
+           id="text6578-0-4-5-6"><tspan
+             style="font-size:24px;line-height:1"
+             sodipodi:role="line"
+             id="tspan6580-8-4-2-2"
+             x="276.7818"
+             y="94.232498">Z2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g7434-2-81-0-7-2"
+       style="display:inline"
+       transform="matrix(0.4073481,0,0,0.4073481,33.630655,125.72891)">
+      <g
+         id="g7477-0-1-1-8">
+        <g
+           id="g7470-3-4-0-6">
+          <ellipse
+             ry="22.326654"
+             rx="21.151567"
+             cy="86.522575"
+             cx="279.36047"
+             id="ellipse6574-3-0-1-3-9"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82276052;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <ellipse
+             ry="22.326654"
+             rx="21.151567"
+             cy="85.181122"
+             cx="277.6449"
+             id="ellipse6576-9-4-1-7-9"
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="276.7818"
+           y="94.232498"
+           id="text6578-0-4-5-6-7"><tspan
+             style="font-size:24px;line-height:1"
+             sodipodi:role="line"
+             id="tspan6580-8-4-2-2-9"
+             x="276.7818"
+             y="94.232498">Z1</tspan></text>
       </g>
     </g>
   </g>
