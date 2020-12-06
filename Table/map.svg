@@ -12392,9 +12392,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="205.6379"
-     inkscape:cy="592.63886"
+     inkscape:zoom="4"
+     inkscape:cx="441.87581"
+     inkscape:cy="815.54999"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -12517,7 +12517,7 @@
        r="55.454483" />
     <g
        id="g3395"
-       transform="matrix(0.4073481,0,0,0.4073481,210.3087,198.70959)"
+       transform="matrix(0.4073481,0,0,0.4073481,451.72501,371.74364)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12554,7 +12554,7 @@
     </g>
     <g
        id="g3374"
-       transform="matrix(0.4073481,0,0,0.4073481,-216.61793,18.576549)"
+       transform="matrix(0.4073481,0,0,0.4073481,294.62027,230.00148)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12636,41 +12636,71 @@
            style="font-size:24px;line-height:1">Gl</tspan></text>
     </g>
     <g
-       id="g7434-2"
-       style="display:inline"
-       transform="matrix(0.4073481,0,0,0.4073481,439.11006,217.42057)">
+       id="g7076"
+       transform="matrix(0.4073481,0,0,0.4073481,303.86006,221.67057)">
       <g
-         id="g7477">
-        <g
-           id="g7470"
-           style="fill:#000000;fill-opacity:1">
-          <ellipse
-             ry="22.326654"
-             rx="21.151567"
-             cy="86.522575"
-             cx="279.36047"
-             id="ellipse6574-3"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82276052;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-          <ellipse
-             ry="22.326654"
-             rx="21.151567"
-             cy="85.181122"
-             cx="277.6449"
-             id="ellipse6576-9"
-             style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-           x="276.7818"
-           y="94.232498"
-           id="text6578-0"><tspan
-             style="font-size:24px;line-height:1"
-             sodipodi:role="line"
-             id="tspan6580-8"
-             x="276.7818"
-             y="94.232498">S</tspan></text>
+         style="fill:#000000;fill-opacity:1"
+         id="g7470">
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82276052;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse6574-3"
+           cx="279.36047"
+           cy="86.522575"
+           rx="21.151567"
+           ry="22.326654" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse6576-9"
+           cx="277.6449"
+           cy="85.181122"
+           rx="21.151567"
+           ry="22.326654" />
       </g>
+      <text
+         id="text6578-0"
+         y="94.232498"
+         x="276.7818"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="94.232498"
+           x="276.7818"
+           id="tspan6580-8"
+           sodipodi:role="line"
+           style="font-size:24px;line-height:1">G</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.4073481,0,0,0.4073481,546.55244,447.64058)"
+       style="display:inline"
+       id="g7076-9">
+      <g
+         style="fill:#000000;fill-opacity:1"
+         id="g7470-10">
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82276052;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse6574-3-9"
+           cx="279.36047"
+           cy="86.522575"
+           rx="21.151567"
+           ry="22.326654" />
+        <ellipse
+           style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse6576-9-75"
+           cx="277.6449"
+           cy="85.181122"
+           rx="21.151567"
+           ry="22.326654" />
+      </g>
+      <text
+         id="text6578-0-47"
+         y="94.232498"
+         x="276.7818"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="94.232498"
+           x="276.7818"
+           id="tspan6580-8-9"
+           sodipodi:role="line"
+           style="font-size:24px;line-height:1">G</tspan></text>
     </g>
     <g
        id="g7434-2-5"
@@ -12798,7 +12828,7 @@
        inkscape:transform-center-y="-0.14730719" />
     <g
        id="g3381"
-       transform="matrix(0.4073481,0,0,0.4073481,573.01842,263.04852)"
+       transform="matrix(0.4073481,0,0,0.4073481,721.05648,426.83131)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -12840,18 +12870,18 @@
       </g>
     </g>
     <rect
-       style="display:inline;fill:none;fill-opacity:0.24705882;stroke:#060000;stroke-width:0.7737658;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:0.24705882;stroke:#060000;stroke-width:0.55830628;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2572-8-1-7-4"
-       width="417.60928"
-       height="789.90479"
-       x="-432.80313"
-       y="-19.940088"
-       transform="matrix(0.00342964,-0.99999412,0.99999886,0.00150894,0,0)"
+       width="423.13107"
+       height="405.87839"
+       x="-437.77496"
+       y="171.51941"
+       transform="matrix(0.00173925,-0.99999849,0.99999557,0.0029755,0,0)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
-       inkscape:export-xdpi="95.970001"
-       inkscape:export-ydpi="95.970001"
-       inkscape:transform-center-x="10.431773"
-       inkscape:transform-center-y="-4.2965865" />
+       inkscape:export-xdpi="96.959999"
+       inkscape:export-ydpi="96.959999"
+       inkscape:transform-center-x="5.3601783"
+       inkscape:transform-center-y="-4.3533898" />
     <g
        style="display:inline"
        id="g3395-4-6"
@@ -12931,7 +12961,7 @@
     <g
        style="display:inline"
        id="g3395-4-6-4-7"
-       transform="matrix(0.4073481,0,0,0.4073481,472.28779,184.26363)"
+       transform="matrix(0.4073481,0,0,0.4073481,536.63451,180.37454)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12947,7 +12977,7 @@
            rx="25.714285"
            ry="27.142857" />
         <ellipse
-           style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path3292-3-2-1-6"
            transform="matrix(0.822561,0,0,0.822561,103.732,-241.08596)"
            cx="211.42857"
@@ -13014,7 +13044,7 @@
     <g
        style="display:inline"
        id="g3388-3"
-       transform="matrix(0.4073481,0,0,0.4073481,356.94154,24.052699)"
+       transform="matrix(0.4073481,0,0,0.4073481,368.25525,309.72384)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13519,7 +13549,7 @@
     <g
        style="display:inline"
        id="g3395-4"
-       transform="matrix(0.4073481,0,0,0.4073481,259.17597,200.49286)"
+       transform="matrix(0.4073481,0,0,0.4073481,408.84293,328.4096)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13651,7 +13681,7 @@
     <g
        style="display:inline"
        id="g3381-5-9"
-       transform="matrix(0.4073481,0,0,0.4073481,233.51513,280.62198)"
+       transform="matrix(0.4073481,0,0,0.4073481,763.17869,472.36924)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -13695,7 +13725,7 @@
     <g
        style="display:inline"
        id="g3381-5-7"
-       transform="matrix(0.27579127,0,0,0.27579127,505.91556,299.88896)"
+       transform="matrix(0.27579127,0,0,0.27579127,479.0455,582.73167)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -13738,7 +13768,7 @@
     </g>
     <g
        id="g3388"
-       transform="matrix(0.4073481,0,0,0.4073481,209.55427,201.42192)"
+       transform="matrix(0.4073481,0,0,0.4073481,431.15225,370.09201)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13813,7 +13843,7 @@
     <g
        id="g7434-2-81-05"
        style="display:inline"
-       transform="matrix(0.71696978,0,0,0.71696978,376.20101,98.877909)">
+       transform="matrix(0.71696978,0,0,0.71696978,29.20101,418.87791)">
       <g
          id="g7477-0-8">
         <g
@@ -13955,7 +13985,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.4073481,0,0,0.4073481,437.11006,148.92057)"
+       transform="matrix(0.4073481,0,0,0.4073481,547.41872,138.66752)"
        style="display:inline"
        id="g7077">
       <g
