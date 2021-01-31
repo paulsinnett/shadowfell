@@ -11344,12 +11344,12 @@
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         y="0"
-         x="0"
-         id="parchment"
-         height="256"
+         inkscape:label="#image18410"
          width="256"
-         inkscape:label="#image18410" />
+         height="256"
+         id="parchment"
+         x="0"
+         y="0" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -11360,73 +11360,73 @@
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         y="0"
-         x="0"
+         inkscape:tile-y0="85.74762"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-h="256"
+         inkscape:tile-w="256"
+         inkscape:tile-cy="213.74762"
+         inkscape:tile-cx="197.00342"
+         inkscape:label="#image18410"
+         width="256"
+         height="256"
          id="image18421"
+         x="0"
+         y="0" />
+      <image
+         sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
+         xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
+         y="256"
+         x="0"
+         id="use18454"
          height="256"
          width="256"
          inkscape:label="#image18410"
-         inkscape:tile-cx="197.00342"
-         inkscape:tile-cy="213.74762"
-         inkscape:tile-w="256"
-         inkscape:tile-h="256"
          inkscape:tile-x0="69.003418"
          inkscape:tile-y0="85.74762" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
-         id="use18454"
-         x="0"
-         y="256" />
-      <image
-         sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
+         y="0"
+         x="256"
          id="use18456"
-         x="256"
-         y="0" />
+         height="256"
+         width="256"
+         inkscape:label="#image18410"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-y0="85.74762" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
+         y="256"
+         x="256"
          id="use18458"
-         x="256"
-         y="256" />
+         height="256"
+         width="256"
+         inkscape:label="#image18410"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-y0="85.74762" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
+         y="0"
+         x="512"
          id="use18460"
-         x="512"
-         y="0" />
+         height="256"
+         width="256"
+         inkscape:label="#image18410"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-y0="85.74762" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:tile-y0="85.74762"
-         inkscape:tile-x0="69.003418"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
-         id="use18462"
+         y="256"
          x="512"
-         y="256" />
+         id="use18462"
+         height="256"
+         width="256"
+         inkscape:label="#image18410"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-y0="85.74762" />
     </pattern>
     <inkscape:perspective
        id="perspective18564"
@@ -12417,15 +12417,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="573.7762"
-     inkscape:cy="711.0156"
+     inkscape:cx="750.65306"
+     inkscape:cy="796.72989"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1886"
      inkscape:window-height="1048"
-     inkscape:window-x="796"
-     inkscape:window-y="115"
+     inkscape:window-x="563"
+     inkscape:window-y="77"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -12473,14 +12473,14 @@
     <image
        sodipodi:absref="D:\GitHub\shadowfell\Table\background.png"
        xlink:href="background.png"
-       style="display:inline"
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       height="1911.564"
-       width="3598.238"
-       y="-860.75616"
+       id="image5843"
        x="-892.85675"
-       id="image5843" />
+       y="-860.75616"
+       width="3598.238"
+       height="1911.564"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="display:inline" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -12736,7 +12736,7 @@
     <g
        style="display:inline"
        id="g3381-5-9"
-       transform="matrix(1.8321693,0,0,1.8321693,2397.9867,1043.7639)"
+       transform="matrix(1.8321693,0,0,1.8321693,2077.9867,1009.4782)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -12899,7 +12899,7 @@
     <g
        style="display:inline"
        id="g3395-6"
-       transform="matrix(1.0165191,0,0,1.0165191,653.32731,292.51825)"
+       transform="matrix(1.0165191,0,0,1.0165191,787.61302,-1.7674643)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13117,7 +13117,7 @@
     <g
        style="display:inline"
        id="g3395-4-1-1"
-       transform="matrix(1.8321693,0,0,1.8321693,924.02156,742.20972)"
+       transform="matrix(1.8321693,0,0,1.8321693,-730.26415,1022.2097)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13155,7 +13155,7 @@
     <g
        style="display:inline"
        id="g3395-6-2"
-       transform="matrix(1.0165191,0,0,1.0165191,1685.4681,555.80627)"
+       transform="matrix(1.0165191,0,0,1.0165191,1199.7539,1021.5206)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13266,5 +13266,50 @@
            sodipodi:role="line"
            style="font-size:24px;line-height:1">Hu</tspan></text>
     </g>
+    <g
+       style="display:inline"
+       id="g3395-6-2-7"
+       transform="matrix(1.0165191,0,0,1.0165191,1588.3252,716.52055)"
+       inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g3296-6-0-9">
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3290-8-1-5"
+           transform="matrix(0.822561,0,0,0.822561,105.44756,-239.74451)"
+           cx="211.42857"
+           cy="396.64789"
+           rx="25.714285"
+           ry="27.142857" />
+        <ellipse
+           style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3292-4-7-5"
+           transform="matrix(0.822561,0,0,0.822561,103.732,-241.08596)"
+           cx="211.42857"
+           cy="396.64789"
+           rx="25.714285"
+           ry="27.142857" />
+      </g>
+      <text
+         id="text3300-6-1-3"
+         y="94.232498"
+         x="276.7818"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="94.232498"
+           x="276.7818"
+           id="tspan3312-8-7-3"
+           sodipodi:role="line"
+           style="font-size:24px;line-height:1">I</tspan></text>
+    </g>
+    <ellipse
+       style="fill:#1b24ff;fill-opacity:0.31620553;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73122529"
+       id="path3277"
+       ry="238.57143"
+       rx="248.57143"
+       cy="905.21918"
+       cx="1671.4286" />
   </g>
 </svg>
