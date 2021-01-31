@@ -12416,7 +12416,7 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
+     inkscape:zoom="0.49497475"
      inkscape:cx="750.65306"
      inkscape:cy="796.72989"
      inkscape:document-units="in"
@@ -13208,7 +13208,7 @@
            rx="25.714285"
            ry="27.142857" />
         <ellipse
-           style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path3292-3-1-1-0"
            transform="matrix(0.822561,0,0,0.822561,103.732,-241.08596)"
            cx="211.42857"
@@ -13305,11 +13305,13 @@
            style="font-size:24px;line-height:1">I</tspan></text>
     </g>
     <ellipse
-       style="fill:#1b24ff;fill-opacity:0.31620553;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73122529"
+       style="fill:#1b24ff;fill-opacity:0.31620555;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73122529"
        id="path3277"
-       ry="238.57143"
-       rx="248.57143"
+       ry="192.85715"
+       rx="194.28571"
        cy="905.21918"
-       cx="1671.4286" />
+       cx="1671.4286"
+       inkscape:export-xdpi="21.34"
+       inkscape:export-ydpi="21.34" />
   </g>
 </svg>
