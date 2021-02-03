@@ -12417,10 +12417,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="750.65306"
-     inkscape:cy="796.72989"
+     inkscape:cx="708.22665"
+     inkscape:cy="673.49128"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g7470-10-6"
      showgrid="false"
      inkscape:window-width="1886"
      inkscape:window-height="1048"
@@ -12436,8 +12436,8 @@
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="false"
      inkscape:snap-center="true"
-     inkscape:measure-start="1485.71,525.714"
-     inkscape:measure-end="1131.43,1011.43"
+     inkscape:measure-start="1622.3,137.381"
+     inkscape:measure-end="250.518,1480.88"
      units="in">
     <inkscape:grid
        type="xygrid"
@@ -12489,6 +12489,21 @@
      style="display:inline"
      transform="translate(0,867.63792)">
     <path
+       style="display:inline;fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-width:96;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73122529"
+       d="M 247.29953,-433.53958 1615.4217,905.85724"
+       id="path3230-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:#1b24ff;fill-opacity:0.31620555;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73122529"
+       id="path3277"
+       ry="192.85715"
+       rx="194.28571"
+       cy="905.21918"
+       cx="1671.4286"
+       inkscape:export-xdpi="21.34"
+       inkscape:export-ydpi="21.34" />
+    <path
        style="fill:#000000;fill-opacity:1;stroke:#818181;stroke-width:96;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73122529"
        d="M 1337.1428,323.79065 1897.143,1040.9335"
        id="path3230"
@@ -12533,7 +12548,7 @@
     </g>
     <g
        id="g3374"
-       transform="matrix(1.8321693,0,0,1.8321693,545.58622,12.66364)"
+       transform="matrix(1.8321693,0,0,1.8321693,489.01768,20.74486)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12830,7 +12845,7 @@
            rx="21.151567"
            ry="22.326654" />
         <ellipse
-           style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="ellipse6576-9-75-9"
            cx="277.6449"
            cy="85.181122"
@@ -13155,7 +13170,7 @@
     <g
        style="display:inline"
        id="g3395-6-2"
-       transform="matrix(1.0165191,0,0,1.0165191,1199.7539,1021.5206)"
+       transform="matrix(1.0165191,0,0,1.0165191,1304.8098,1023.5409)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13269,7 +13284,7 @@
     <g
        style="display:inline"
        id="g3395-6-2-7"
-       transform="matrix(1.0165191,0,0,1.0165191,1588.3252,716.52055)"
+       transform="matrix(1.0165191,0,0,1.0165191,1614.5892,823.59672)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13304,14 +13319,5 @@
            sodipodi:role="line"
            style="font-size:24px;line-height:1">I</tspan></text>
     </g>
-    <ellipse
-       style="fill:#1b24ff;fill-opacity:0.31620555;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73122529"
-       id="path3277"
-       ry="192.85715"
-       rx="194.28571"
-       cy="905.21918"
-       cx="1671.4286"
-       inkscape:export-xdpi="21.34"
-       inkscape:export-ydpi="21.34" />
   </g>
 </svg>
