@@ -12417,10 +12417,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="708.22665"
-     inkscape:cy="673.49128"
+     inkscape:cx="675.90177"
+     inkscape:cy="497.72474"
      inkscape:document-units="in"
-     inkscape:current-layer="g7470-10-6"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1886"
      inkscape:window-height="1048"
@@ -12630,7 +12630,7 @@
     </g>
     <g
        id="g3381"
-       transform="matrix(1.8321693,0,0,1.8321693,2095.0385,537.96442)"
+       transform="matrix(0.88602472,0,0,0.88602472,1582.8549,84.290084)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -12953,7 +12953,7 @@
        id="g3314-7-4"
        transform="matrix(1.8321693,0,0,1.8321693,-1121.9785,89.352579)" />
     <g
-       transform="matrix(1.8321693,0,0,1.8321693,409.81277,157.33551)"
+       transform="matrix(1.8321693,0,0,1.8321693,312.83813,260.37107)"
        id="g3227">
       <ellipse
          ry="27.142857"
@@ -13022,7 +13022,7 @@
     <g
        id="g3227-5"
        style="display:inline"
-       transform="matrix(1.8321693,0,0,1.8321693,307.15638,449.27807)">
+       transform="matrix(1.8321693,0,0,1.8321693,509.18689,558.37454)">
       <ellipse
          ry="27.142857"
          rx="25.714285"
@@ -13109,7 +13109,7 @@
            rx="25.714285"
            ry="27.142857" />
         <ellipse
-           style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path3292-3-1-1"
            transform="matrix(0.822561,0,0,0.822561,103.732,-241.08596)"
            cx="211.42857"
