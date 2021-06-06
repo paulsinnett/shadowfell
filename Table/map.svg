@@ -11344,12 +11344,12 @@
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         inkscape:label="#image18410"
-         width="256"
-         height="256"
-         id="parchment"
+         y="0"
          x="0"
-         y="0" />
+         id="parchment"
+         height="256"
+         width="256"
+         inkscape:label="#image18410" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -11360,73 +11360,73 @@
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
+         y="0"
+         x="0"
+         id="image18421"
+         height="256"
+         width="256"
+         inkscape:label="#image18410"
+         inkscape:tile-cx="197.00342"
+         inkscape:tile-cy="213.74762"
+         inkscape:tile-w="256"
+         inkscape:tile-h="256"
+         inkscape:tile-x0="69.003418"
+         inkscape:tile-y0="85.74762" />
+      <image
+         sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
+         xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          inkscape:tile-y0="85.74762"
          inkscape:tile-x0="69.003418"
-         inkscape:tile-h="256"
-         inkscape:tile-w="256"
-         inkscape:tile-cy="213.74762"
-         inkscape:tile-cx="197.00342"
          inkscape:label="#image18410"
          width="256"
          height="256"
-         id="image18421"
+         id="use18454"
          x="0"
+         y="256" />
+      <image
+         sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
+         xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
+         inkscape:tile-y0="85.74762"
+         inkscape:tile-x0="69.003418"
+         inkscape:label="#image18410"
+         width="256"
+         height="256"
+         id="use18456"
+         x="256"
          y="0" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         y="256"
-         x="0"
-         id="use18454"
-         height="256"
-         width="256"
-         inkscape:label="#image18410"
+         inkscape:tile-y0="85.74762"
          inkscape:tile-x0="69.003418"
-         inkscape:tile-y0="85.74762" />
-      <image
-         sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         y="0"
-         x="256"
-         id="use18456"
-         height="256"
-         width="256"
          inkscape:label="#image18410"
-         inkscape:tile-x0="69.003418"
-         inkscape:tile-y0="85.74762" />
-      <image
-         sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         y="256"
-         x="256"
+         width="256"
+         height="256"
          id="use18458"
-         height="256"
-         width="256"
-         inkscape:label="#image18410"
-         inkscape:tile-x0="69.003418"
-         inkscape:tile-y0="85.74762" />
+         x="256"
+         y="256" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         y="0"
-         x="512"
+         inkscape:tile-y0="85.74762"
+         inkscape:tile-x0="69.003418"
+         inkscape:label="#image18410"
+         width="256"
+         height="256"
          id="use18460"
-         height="256"
-         width="256"
-         inkscape:label="#image18410"
-         inkscape:tile-x0="69.003418"
-         inkscape:tile-y0="85.74762" />
+         x="512"
+         y="0" />
       <image
          sodipodi:absref="D:\GitHub\shadowfell\Table\../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
          xlink:href="../../../Dropbox/personal/rpg/kots/encounters/keep/parchment.jpg"
-         y="256"
-         x="512"
-         id="use18462"
-         height="256"
-         width="256"
-         inkscape:label="#image18410"
+         inkscape:tile-y0="85.74762"
          inkscape:tile-x0="69.003418"
-         inkscape:tile-y0="85.74762" />
+         inkscape:label="#image18410"
+         width="256"
+         height="256"
+         id="use18462"
+         x="512"
+         y="256" />
     </pattern>
     <inkscape:perspective
        id="perspective18564"
@@ -12416,16 +12416,16 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="968.4676"
-     inkscape:cy="835.9083"
+     inkscape:zoom="0.7"
+     inkscape:cx="937.06043"
+     inkscape:cy="768.75875"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1886"
-     inkscape:window-height="1155"
-     inkscape:window-x="773"
-     inkscape:window-y="221"
+     inkscape:window-width="2257"
+     inkscape:window-height="1350"
+     inkscape:window-x="1303"
+     inkscape:window-y="764"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -12473,14 +12473,14 @@
     <image
        sodipodi:absref="D:\GitHub\shadowfell\Table\background.png"
        xlink:href="background.png"
-       id="image5843"
-       x="-892.85675"
-       y="-860.75616"
-       width="3598.238"
-       height="1911.564"
-       inkscape:export-xdpi="96"
+       style="display:inline"
        inkscape:export-ydpi="96"
-       style="display:inline" />
+       inkscape:export-xdpi="96"
+       height="1359.8387"
+       width="1764.4611"
+       y="-593.99347"
+       x="30.338224"
+       id="image5843" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -12488,30 +12488,9 @@
      id="layer1"
      style="display:inline"
      transform="translate(0,867.63792)">
-    <path
-       style="display:inline;fill:#a2a2a2;fill-opacity:1;stroke:#a2a2a2;stroke-width:96;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86561261"
-       d="M 247.29953,-433.53958 1615.4217,905.85724"
-       id="path3230-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <ellipse
-       style="fill:#1b24ff;fill-opacity:0.31620555;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73122529"
-       id="path3277"
-       ry="192.85715"
-       rx="194.28571"
-       cy="905.21918"
-       cx="1671.4286"
-       inkscape:export-xdpi="21.34"
-       inkscape:export-ydpi="21.34" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#818181;stroke-width:96;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73122529"
-       d="M 1337.1428,323.79065 1897.143,1040.9335"
-       id="path3230"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <g
        id="g3395"
-       transform="matrix(1.8321693,0,0,1.8321693,731.9286,737.66326)"
+       transform="matrix(1.5399082,0,0,1.5399082,522.25236,185.61126)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12548,7 +12527,7 @@
     </g>
     <g
        id="g3374"
-       transform="matrix(1.8321693,0,0,1.8321693,489.01768,20.74486)"
+       transform="matrix(1.5399082,0,0,1.5399082,-62.487807,-428.34979)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12597,7 +12576,7 @@
     </g>
     <g
        id="g7076"
-       transform="matrix(1.8321693,0,0,1.8321693,592.85921,75.192906)">
+       transform="matrix(1.5399082,0,0,1.5399082,1609.6526,180.24437)">
       <g
          style="fill:#000000;fill-opacity:1"
          id="g7470">
@@ -12631,7 +12610,7 @@
     <g
        style="display:inline"
        id="g3388-3"
-       transform="matrix(1.8321693,0,0,1.8321693,779.46025,554.07118)"
+       transform="matrix(1.5399082,0,0,1.5399082,-158.85872,-468.46378)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12670,7 +12649,7 @@
     <g
        style="display:inline"
        id="g3395-4"
-       transform="matrix(1.8321693,0,0,1.8321693,687.90804,465.28346)"
+       transform="matrix(1.5399082,0,0,1.5399082,-146.17472,-460.46235)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12708,7 +12687,7 @@
     <g
        style="display:inline"
        id="g3381-5-9"
-       transform="matrix(1.8321693,0,0,1.8321693,2051.7227,1074.128)"
+       transform="matrix(1.5399082,0,0,1.5399082,1694.3747,294.11864)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -12729,7 +12708,7 @@
           <ellipse
              transform="matrix(0.822561,0,0,0.822561,103.732,-241.08596)"
              id="path3324-9-1"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="fill:#2e3192;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              cx="211.42857"
              cy="396.64789"
              rx="25.714285"
@@ -12750,7 +12729,7 @@
       </g>
     </g>
     <g
-       transform="matrix(3.8676587,0,0,3.7525864,-23.798096,241.16689)"
+       transform="matrix(3.8676587,0,0,3.7525864,-1646.1031,719.97919)"
        style="display:inline"
        id="g7076-9-0">
       <g
@@ -12786,7 +12765,7 @@
    id="tspan3401" /></tspan></text>
     </g>
     <g
-       transform="matrix(3.8676587,0,0,3.7525864,384.60063,-118.69443)"
+       transform="matrix(3.2507037,0,0,3.1539873,1123.1861,-279.85762)"
        style="display:inline"
        id="g7076-9-0-7">
       <g
@@ -12800,7 +12779,7 @@
            rx="21.151567"
            ry="22.326654" />
         <ellipse
-           style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="ellipse6576-9-75-9-5"
            cx="277.6449"
            cy="85.181122"
@@ -12822,18 +12801,19 @@
    id="tspan3436" /></tspan></text>
     </g>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.49779749;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.70461369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3438"
-       width="1835.1042"
-       height="1917.7954"
-       x="-10.540312"
-       y="-860.56592"
-       inkscape:export-xdpi="21.34"
-       inkscape:export-ydpi="21.34" />
+       width="1761.347"
+       height="1355.5143"
+       x="29.601315"
+       y="-763.24768"
+       inkscape:export-xdpi="26.110001"
+       inkscape:export-ydpi="26.110001"
+       transform="scale(1,-1)" />
     <g
        style="display:inline"
        id="g3395-6"
-       transform="matrix(1.0165191,0,0,1.0165191,654.27288,365.92806)"
+       transform="matrix(0.85436762,0,0,0.85436762,544.84976,896.83097)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12872,42 +12852,9 @@
        id="g3314-7-4"
        transform="matrix(1.8321693,0,0,1.8321693,-1121.9785,89.352579)" />
     <g
-       transform="matrix(1.8321693,0,0,1.8321693,403.75186,549.2747)"
-       id="g3227">
-      <ellipse
-         ry="27.142857"
-         rx="25.714285"
-         cy="396.64789"
-         cx="211.42857"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path3316-4-1"
-         transform="matrix(0.82256099,0,0,0.82256099,104.73678,-290.96291)" />
-      <ellipse
-         ry="27.142857"
-         rx="25.714285"
-         cy="396.64789"
-         cx="211.42857"
-         style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path3318-1-1"
-         transform="matrix(0.82256099,0,0,0.82256099,103.02122,-292.30437)" />
-      <text
-         id="text3344-3-3"
-         y="41.974262"
-         x="276.79794"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           style="font-size:24px;line-height:1"
-           y="41.974262"
-           x="276.79794"
-           id="tspan3348-7-7"
-           sodipodi:role="line">H<tspan
-   id="tspan3229"
-   style="font-size:64.99999762%;baseline-shift:sub">1</tspan></tspan></text>
-    </g>
-    <g
        id="g3227-2"
        style="display:inline"
-       transform="matrix(1.8321693,0,0,1.8321693,775.33702,166.43111)">
+       transform="matrix(1.5399082,0,0,1.5399082,1202.3249,-269.52554)">
       <ellipse
          ry="27.142857"
          rx="25.714285"
@@ -12934,14 +12881,14 @@
            y="41.974262"
            x="276.79794"
            id="tspan3348-7-7-1"
-           sodipodi:role="line">H<tspan
+           sodipodi:role="line">T<tspan
    id="tspan3279"
-   style="font-size:64.99999762%;baseline-shift:sub">3</tspan></tspan></text>
+   style="font-size:64.99999762%;baseline-shift:sub">1</tspan></tspan></text>
     </g>
     <g
        id="g3227-5"
        style="display:inline"
-       transform="matrix(1.8321693,0,0,1.8321693,333.42035,378.56739)">
+       transform="matrix(1.5399082,0,0,1.5399082,1580.1699,565.22564)">
       <ellipse
          ry="27.142857"
          rx="25.714285"
@@ -12975,7 +12922,7 @@
     <g
        style="display:inline"
        id="g3395-4-1"
-       transform="matrix(1.8321693,0,0,1.8321693,707.13403,549.25105)"
+       transform="matrix(1.5399082,0,0,1.5399082,42.84156,762.96817)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13013,7 +12960,7 @@
     <g
        style="display:inline"
        id="g3395-4-1-0"
-       transform="matrix(1.8321693,0,0,1.8321693,576.87871,-183.50457)"
+       transform="matrix(1.5399082,0,0,1.5399082,1561.9355,-4.3294787)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13051,7 +12998,7 @@
     <g
        style="display:inline"
        id="g3395-4-1-1"
-       transform="matrix(1.8321693,0,0,1.8321693,-730.26415,1022.2097)"
+       transform="matrix(1.5399082,0,0,1.5399082,786.16052,-8.089274)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13084,12 +13031,12 @@
            x="276.7818"
            id="tspan3312-6-6-0"
            sodipodi:role="line"
-           style="font-size:24px;line-height:1">T</tspan></text>
+           style="font-size:24px;line-height:1">M</tspan></text>
     </g>
     <g
        style="display:inline"
        id="g3395-6-2"
-       transform="matrix(1.0165191,0,0,1.0165191,1316.9316,857.87588)"
+       transform="matrix(0.85436762,0,0,0.85436762,1808.2235,420.9337)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13127,7 +13074,7 @@
     <g
        style="display:inline"
        id="g3395-4-1-0-8"
-       transform="matrix(1.8321693,0,0,1.8321693,1031.1644,13.638294)"
+       transform="matrix(1.5399082,0,0,1.5399082,1559.4694,-325.77698)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13165,7 +13112,7 @@
     <g
        style="display:inline"
        id="g3395-4-1-0-8-6"
-       transform="matrix(1.8321693,0,0,1.8321693,604.6902,467.07996)"
+       transform="matrix(1.5399082,0,0,1.5399082,242.45343,799.619)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13180,7 +13127,7 @@
            rx="25.714285"
            ry="27.142857" />
         <ellipse
-           style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path3292-3-1-1-0-3"
            transform="matrix(0.822561,0,0,0.822561,103.732,-241.08596)"
            cx="211.42857"
@@ -13202,7 +13149,7 @@
     </g>
     <g
        id="g3388"
-       transform="matrix(1.8321693,0,0,1.8321693,1043.4222,232.97455)"
+       transform="matrix(1.5399082,0,0,1.5399082,454.05765,195.71439)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13240,7 +13187,7 @@
     </g>
     <g
        id="g3381"
-       transform="matrix(0.88602472,0,0,0.88602472,1910.1444,318.64547)"
+       transform="matrix(1.5788822,0,0,1.5788822,1788.7511,349.89118)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -13280,6 +13227,141 @@
              id="tspan3354"
              style="font-size:25.6515274px;line-height:1">Ar</tspan></text>
       </g>
+    </g>
+    <g
+       transform="matrix(1.5399082,0,0,1.5399082,143.10195,857.48764)"
+       id="g3227">
+      <ellipse
+         ry="27.142857"
+         rx="25.714285"
+         cy="396.64789"
+         cx="211.42857"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3316-4-1"
+         transform="matrix(0.82256099,0,0,0.82256099,104.73678,-290.96291)" />
+      <ellipse
+         ry="27.142857"
+         rx="25.714285"
+         cy="396.64789"
+         cx="211.42857"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3318-1-1"
+         transform="matrix(0.82256099,0,0,0.82256099,103.02122,-292.30437)" />
+      <text
+         id="text3344-3-3"
+         y="41.974262"
+         x="276.79794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:24px;line-height:1"
+           y="41.974262"
+           x="276.79794"
+           id="tspan3348-7-7"
+           sodipodi:role="line">H<tspan
+   id="tspan3229"
+   style="font-size:64.99999762%;baseline-shift:sub">1</tspan></tspan></text>
+    </g>
+    <g
+       transform="matrix(1.5399082,0,0,1.5399082,-226.24649,272.61732)"
+       style="display:inline"
+       id="g6974">
+      <ellipse
+         transform="matrix(0.82256099,0,0,0.82256099,104.73678,-290.96291)"
+         id="ellipse6964"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="211.42857"
+         cy="396.64789"
+         rx="25.714285"
+         ry="27.142857" />
+      <ellipse
+         transform="matrix(0.82256099,0,0,0.82256099,103.02122,-292.30437)"
+         id="ellipse6966"
+         style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="211.42857"
+         cy="396.64789"
+         rx="25.714285"
+         ry="27.142857" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="276.79794"
+         y="41.974262"
+         id="text6972"><tspan
+           sodipodi:role="line"
+           id="tspan6970"
+           x="276.79794"
+           y="41.974262"
+           style="font-size:24px;line-height:1">T<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan6968">2</tspan></tspan></text>
+    </g>
+    <g
+       transform="matrix(1.5399082,0,0,1.5399082,183.03922,271.90304)"
+       style="display:inline"
+       id="g6986">
+      <ellipse
+         transform="matrix(0.82256099,0,0,0.82256099,104.73678,-290.96291)"
+         id="ellipse6976"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="211.42857"
+         cy="396.64789"
+         rx="25.714285"
+         ry="27.142857" />
+      <ellipse
+         transform="matrix(0.82256099,0,0,0.82256099,103.02122,-292.30437)"
+         id="ellipse6978"
+         style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="211.42857"
+         cy="396.64789"
+         rx="25.714285"
+         ry="27.142857" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="276.79794"
+         y="41.974262"
+         id="text6984"><tspan
+           sodipodi:role="line"
+           id="tspan6982"
+           x="276.79794"
+           y="41.974262"
+           style="font-size:24px;line-height:1">V<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan6980">1</tspan></tspan></text>
+    </g>
+    <g
+       id="g6998"
+       style="display:inline"
+       transform="matrix(1.5399082,0,0,1.5399082,718.03922,-65.239815)">
+      <ellipse
+         ry="27.142857"
+         rx="25.714285"
+         cy="396.64789"
+         cx="211.42857"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse6988"
+         transform="matrix(0.82256099,0,0,0.82256099,104.73678,-290.96291)" />
+      <ellipse
+         ry="27.142857"
+         rx="25.714285"
+         cy="396.64789"
+         cx="211.42857"
+         style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse6990"
+         transform="matrix(0.82256099,0,0,0.82256099,103.02122,-292.30437)" />
+      <text
+         id="text6996"
+         y="41.974262"
+         x="276.79794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:24px;line-height:1"
+           y="41.974262"
+           x="276.79794"
+           id="tspan6994"
+           sodipodi:role="line">V<tspan
+   id="tspan6992"
+   style="font-size:64.99999762%;baseline-shift:sub">2</tspan></tspan></text>
     </g>
   </g>
 </svg>
