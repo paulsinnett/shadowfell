@@ -12416,9 +12416,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="257.78362"
-     inkscape:cy="-447.66457"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="714.20539"
+     inkscape:cy="1373.0143"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -12474,10 +12474,10 @@
        sodipodi:absref="D:\GitHub\shadowfell\Table\background.png"
        xlink:href="background.png"
        id="image5843"
-       x="32.330021"
-       y="-785.85748"
-       width="1759.1489"
-       height="1828.2856"
+       x="65.665054"
+       y="-833.22876"
+       width="689"
+       height="899"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        style="display:inline" />
@@ -12538,7 +12538,7 @@
     </g>
     <g
        id="g3374"
-       transform="matrix(1.5399082,0,0,1.5399082,193.22648,-148.34979)"
+       transform="matrix(0.68204448,0,0,0.68204448,2.755621,-940.70971)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12621,7 +12621,7 @@
     <g
        style="display:inline"
        id="g3388-3"
-       transform="matrix(1.5399082,0,0,1.5399082,383.99842,-614.17807)"
+       transform="matrix(0.68204448,0,0,0.68204448,190.08644,-631.17631)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12698,7 +12698,7 @@
     <g
        style="display:inline"
        id="g3381-5-9"
-       transform="matrix(1.5399082,0,0,1.5399082,1562.9462,25.547209)"
+       transform="matrix(0.68204448,0,0,0.68204448,726.74328,-582.08926)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -12812,12 +12812,12 @@
    id="tspan3436" /></tspan></text>
     </g>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.30631113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.29807425;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3438"
-       width="1761.347"
-       height="1831.5935"
-       x="31.029886"
-       y="-1046.1049"
+       width="688.77527"
+       height="425.58347"
+       x="66.161858"
+       y="408.51105"
        inkscape:export-xdpi="26.110001"
        inkscape:export-ydpi="26.110001"
        transform="scale(1,-1)" />
@@ -12865,7 +12865,7 @@
     <g
        id="g3227-2"
        style="display:inline"
-       transform="matrix(1.5399082,0,0,1.5399082,1203.7535,13.331603)">
+       transform="matrix(0.68204448,0,0,0.68204448,498.37371,-394.37213)">
       <ellipse
          ry="27.142857"
          rx="25.714285"
@@ -13009,7 +13009,7 @@
     <g
        style="display:inline"
        id="g3395-4-1-1"
-       transform="matrix(1.5399082,0,0,1.5399082,787.58909,274.76787)"
+       transform="matrix(0.68204448,0,0,0.68204448,336.02844,-295.76246)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13160,7 +13160,7 @@
     </g>
     <g
        id="g3388"
-       transform="matrix(1.5399082,0,0,1.5399082,389.77193,-462.85704)"
+       transform="matrix(0.68204448,0,0,0.68204448,210.01589,-715.13331)"
        inkscape:export-filename="/home/paul/D&amp;D/Complete Keep/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -13273,7 +13273,7 @@
    style="font-size:64.99999762%;baseline-shift:sub">1</tspan></tspan></text>
     </g>
     <g
-       transform="matrix(1.5399082,0,0,1.5399082,-224.81792,555.47446)"
+       transform="matrix(0.68204448,0,0,0.68204448,-55.777374,-178.01664)"
        style="display:inline"
        id="g6974">
       <ellipse
@@ -13307,7 +13307,7 @@
    id="tspan6968">2</tspan></tspan></text>
     </g>
     <g
-       transform="matrix(1.5399082,0,0,1.5399082,184.46779,554.76018)"
+       transform="matrix(0.68204448,0,0,0.68204448,103.26591,-180.60863)"
        style="display:inline"
        id="g6986">
       <ellipse
@@ -13343,7 +13343,7 @@
     <g
        id="g6998"
        style="display:inline"
-       transform="matrix(1.5399082,0,0,1.5399082,719.46779,217.61733)">
+       transform="matrix(0.68204448,0,0,0.68204448,313.9379,-315.52484)">
       <ellipse
          ry="27.142857"
          rx="25.714285"
@@ -13384,5 +13384,77 @@
        inkscape:export-xdpi="26.110001"
        inkscape:export-ydpi="26.110001"
        transform="scale(1,-1)" />
+    <g
+       id="g6998-2"
+       style="display:inline"
+       transform="matrix(0.68204448,0,0,0.68204448,150.95494,-735.996)">
+      <ellipse
+         ry="27.142857"
+         rx="25.714285"
+         cy="396.64789"
+         cx="211.42857"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse6988-8"
+         transform="matrix(0.82256099,0,0,0.82256099,104.73678,-290.96291)" />
+      <ellipse
+         ry="27.142857"
+         rx="25.714285"
+         cy="396.64789"
+         cx="211.42857"
+         style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse6990-8"
+         transform="matrix(0.82256099,0,0,0.82256099,103.02122,-292.30437)" />
+      <text
+         id="text6996-1"
+         y="41.974262"
+         x="276.79794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:24px;line-height:1"
+           y="41.974262"
+           x="276.79794"
+           id="tspan6994-8"
+           sodipodi:role="line">V<tspan
+   id="tspan6992-3"
+   style="font-size:64.99999762%;baseline-shift:sub">3</tspan></tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g3395-4-1-1-8"
+       transform="matrix(0.68204448,0,0,0.68204448,130.26711,-799.2135)"
+       inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g3296-3-5-6-3">
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3290-3-4-1-9"
+           transform="matrix(0.822561,0,0,0.822561,105.44756,-239.74451)"
+           cx="211.42857"
+           cy="396.64789"
+           rx="25.714285"
+           ry="27.142857" />
+        <ellipse
+           style="fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3292-3-1-9-8"
+           transform="matrix(0.822561,0,0,0.822561,103.732,-241.08596)"
+           cx="211.42857"
+           cy="396.64789"
+           rx="25.714285"
+           ry="27.142857" />
+      </g>
+      <text
+         id="text3300-8-6-5-8"
+         y="94.232498"
+         x="276.7818"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="94.232498"
+           x="276.7818"
+           id="tspan3312-6-6-0-8"
+           sodipodi:role="line"
+           style="font-size:24px;line-height:1">K</tspan></text>
+    </g>
   </g>
 </svg>
