@@ -12416,16 +12416,16 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="714.20539"
-     inkscape:cy="1373.0143"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="688.95157"
+     inkscape:cy="-1292.6806"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2256"
      inkscape:window-height="1350"
-     inkscape:window-x="408"
-     inkscape:window-y="268"
+     inkscape:window-x="662"
+     inkscape:window-y="694"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -12501,7 +12501,7 @@
      transform="translate(0,867.63792)">
     <g
        id="g3395"
-       transform="matrix(1.5399082,0,0,1.5399082,202.25235,2252.7541)"
+       transform="matrix(1.5399082,0,0,1.5399082,-242.21476,2295.1805)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12660,7 +12660,7 @@
     <g
        style="display:inline"
        id="g3395-4"
-       transform="matrix(1.5399082,0,0,1.5399082,268.11099,2283.8233)"
+       transform="matrix(1.5399082,0,0,1.5399082,-279.39169,2188.869)"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -12698,7 +12698,7 @@
     <g
        style="display:inline"
        id="g3381-5-9"
-       transform="matrix(0.68204448,0,0,0.68204448,726.74328,-582.08926)"
+       transform="matrix(1.4930256,0,0,1.4930256,1842.8486,2591.0434)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -12740,27 +12740,61 @@
       </g>
     </g>
     <g
-       transform="matrix(3.8676587,0,0,3.7525864,-1646.1031,719.97919)"
-       style="display:inline"
-       id="g7076-9-0">
+       id="g3331"
+       style="opacity:0.51799999"
+       transform="matrix(3.8676587,0,0,3.7525864,-9.6559436,1299.8067)">
       <g
          style="fill:#000000;fill-opacity:1"
          id="g7470-10-6">
         <ellipse
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82276052;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="ellipse6574-3-9-2"
-           cx="279.36047"
-           cy="86.522575"
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82276052;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse6574-3-9-2-3"
+           cx="281.77151"
+           cy="230.8381"
            rx="21.151567"
            ry="22.326654" />
         <ellipse
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="ellipse6576-9-75-9"
-           cx="277.6449"
-           cy="85.181122"
+           style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse6576-9-75-9-55"
+           cx="280.05594"
+           cy="229.49664"
            rx="21.151567"
            ry="22.326654" />
+        <text
+           id="text6578-0-47-2-4"
+           y="238.54803"
+           x="279.19284"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+           xml:space="preserve"><tspan
+             y="238.54803"
+             x="279.19284"
+             id="tspan6580-8-9-3-7"
+             sodipodi:role="line"
+             style="font-size:24px;line-height:1;stroke-width:1">R<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.59945679px;font-family:ForgottenUncial;-inkscape-font-specification:'ForgottenUncial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1"
+   id="tspan3278-8">2</tspan></tspan></text>
       </g>
+    </g>
+    <g
+       id="g3323"
+       transform="matrix(3.8676587,0,0,3.7525864,158.02944,1996.812)"
+       style="opacity:0.50400002">
+      <ellipse
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.82276052;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse6574-3-9-2"
+         cx="279.36047"
+         cy="86.522575"
+         rx="21.151567"
+         ry="22.326654"
+         transform="translate(0,-2.6648288e-6)" />
+      <ellipse
+         style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:0.82256103;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse6576-9-75-9"
+         cx="277.6449"
+         cy="85.181122"
+         rx="21.151567"
+         ry="22.326654"
+         transform="translate(0,-2.6648288e-6)" />
       <text
          id="text6578-0-47-2"
          y="94.232498"
@@ -12771,9 +12805,9 @@
            x="276.7818"
            id="tspan6580-8-9-3"
            sodipodi:role="line"
-           style="font-size:24px;line-height:1">D<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan3401" /></tspan></text>
+           style="font-size:24px;line-height:1">R<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.59945679px;font-family:ForgottenUncial;-inkscape-font-specification:'ForgottenUncial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="tspan3278">1</tspan></tspan></text>
     </g>
     <g
        transform="matrix(3.2507037,0,0,3.1539873,1123.1861,-279.85762)"
@@ -12818,8 +12852,8 @@
        height="425.58347"
        x="66.161858"
        y="408.51105"
-       inkscape:export-xdpi="26.110001"
-       inkscape:export-ydpi="26.110001"
+       inkscape:export-xdpi="64.269997"
+       inkscape:export-ydpi="64.269997"
        transform="scale(1,-1)" />
     <g
        style="display:inline"
@@ -13198,7 +13232,7 @@
     </g>
     <g
        id="g3381"
-       transform="matrix(1.5788822,0,0,1.5788822,1464.4654,2524.1768)"
+       transform="matrix(1.5788822,0,0,1.5788822,1882.6686,2453.4661)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="/home/paul/Dropbox/personal/rpg/kots/encounters/map.png">
@@ -13240,7 +13274,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.5399082,0,0,1.5399082,-1137.4843,111.39015)"
+       transform="matrix(1.5399082,0,0,1.5399082,747.46036,2155.9389)"
        id="g3227">
       <ellipse
          ry="27.142857"
@@ -13255,7 +13289,7 @@
          rx="25.714285"
          cy="396.64789"
          cx="211.42857"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3318-1-1"
          transform="matrix(0.82256099,0,0,0.82256099,103.02122,-292.30437)" />
       <text
@@ -13268,9 +13302,7 @@
            y="41.974262"
            x="276.79794"
            id="tspan3348-7-7"
-           sodipodi:role="line">H<tspan
-   id="tspan3229"
-   style="font-size:64.99999762%;baseline-shift:sub">1</tspan></tspan></text>
+           sodipodi:role="line">Sh</tspan></text>
     </g>
     <g
        transform="matrix(0.68204448,0,0,0.68204448,-55.777374,-178.01664)"
@@ -13455,6 +13487,72 @@
            id="tspan3312-6-6-0-8"
            sodipodi:role="line"
            style="font-size:24px;line-height:1">K</tspan></text>
+    </g>
+    <g
+       id="g6999"
+       transform="matrix(1.5399082,0,0,1.5399082,604.01871,2230.6902)">
+      <ellipse
+         transform="matrix(0.82256099,0,0,0.82256099,104.73678,-290.96291)"
+         id="ellipse6989"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="211.42857"
+         cy="396.64789"
+         rx="25.714285"
+         ry="27.142857" />
+      <ellipse
+         transform="matrix(0.82256099,0,0,0.82256099,103.02122,-292.30437)"
+         id="ellipse6991"
+         style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="211.42857"
+         cy="396.64789"
+         rx="25.714285"
+         ry="27.142857" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="276.79794"
+         y="41.974262"
+         id="text6997"><tspan
+           sodipodi:role="line"
+           id="tspan6995"
+           x="276.79794"
+           y="41.974262"
+           style="font-size:24px;line-height:1">S<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan6993">1</tspan></tspan></text>
+    </g>
+    <g
+       transform="matrix(1.5399082,0,0,1.5399082,684.83091,2305.4415)"
+       id="g7011">
+      <ellipse
+         ry="27.142857"
+         rx="25.714285"
+         cy="396.64789"
+         cx="211.42857"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00024259;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse7001"
+         transform="matrix(0.82256099,0,0,0.82256099,104.73678,-290.96291)" />
+      <ellipse
+         ry="27.142857"
+         rx="25.714285"
+         cy="396.64789"
+         cx="211.42857"
+         style="display:inline;fill:#c00000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse7003"
+         transform="matrix(0.82256099,0,0,0.82256099,103.02122,-292.30437)" />
+      <text
+         id="text7009"
+         y="41.974262"
+         x="276.79794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:ForgottenUncial;-inkscape-font-specification:ForgottenUncial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:24px;line-height:1"
+           y="41.974262"
+           x="276.79794"
+           id="tspan7007"
+           sodipodi:role="line">S<tspan
+   id="tspan7005"
+   style="font-size:64.99999762%;baseline-shift:sub">2</tspan></tspan></text>
     </g>
   </g>
 </svg>
